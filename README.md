@@ -1,2 +1,2 @@
 # M4R-Notebooks
-Repository for code and models used in my final year thesis.
+Repository for code used in my final year thesis.
